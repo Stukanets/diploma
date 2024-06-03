@@ -1,0 +1,1 @@
+update decar_database.company_info set company_second_address = 'Київ, вул. Політехнічна 18' where company_name = 'DeCar';
